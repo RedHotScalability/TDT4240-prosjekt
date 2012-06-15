@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget32"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/widget34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/widget39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="guess word"
+            android:textSize="10sp"
+            android:width="250dp" />
+
+        <Button
+            android:id="@+id/widget37"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:text="Submit" />
+
+    </LinearLayout>
+
+</LinearLayout>

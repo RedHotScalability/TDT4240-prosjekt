@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TDT4240Activity!</string>
+    <string name="app_name">TDT4240</string>
+    <color name="transparent">#3366FF</color>
+
+</resources>
